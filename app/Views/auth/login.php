@@ -29,9 +29,15 @@
                             Sistem Informasi Akademik
                         </h2>
 
-                        <h4 class="text-center mb-4">
+                        
+                        <h4 class="text-center mb-3">
                             Login
                         </h4>
+
+                        <p class="text-center text-muted mb-4">
+                            Silakan login untuk mengakses Sistem Informasi Akademik.
+                        </p>
+
 
                         <form action="<?= BASE_URL ?>/login/process" method="POST">
 
