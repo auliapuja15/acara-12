@@ -35,7 +35,7 @@
                         </h4>
 
                         <p class="text-center text-muted mb-4">
-                            Silakan login untuk mengakses Sistem Informasi Akademik.
+                            Selamat datang di halaman login mahasiswa dan dosen.
                         </p>
 
 
