@@ -38,7 +38,6 @@
                             Selamat datang di halaman login mahasiswa dan dosen.
                         </p>
 
-
                         <form action="<?= BASE_URL ?>/login/process" method="POST">
 
                             <div class="mb-3">
