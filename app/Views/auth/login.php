@@ -35,9 +35,8 @@
                         </h4>
 
                         <p class="text-center text-muted mb-4">
-                            Silakan login untuk mengakses Sistem Informasi Akademik.
+                            Selamat datang! Silakan masuk ke akun akademik Anda.
                         </p>
-
 
                         <form action="<?= BASE_URL ?>/login/process" method="POST">
 
