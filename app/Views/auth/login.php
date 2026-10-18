@@ -35,7 +35,7 @@
                         </h4>
 
                         <p class="text-center text-muted mb-4">
-                            Selamat datang di halaman login mahasiswa dan dosen.
+                            Selamat datang! Silakan login untuk melanjutkan ke sistem akademik.
                         </p>
 
                         <form action="<?= BASE_URL ?>/login/process" method="POST">
